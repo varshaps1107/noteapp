@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="add">Add</string>
+    <string name="start_label">For the add new note click on below button</string>
+    <string name="start_btn_room">Add new note</string>
+    <string name="title">Notes</string>
+    <string name="toast_enter_name">Enter note name please</string>
+    <string name="start_btn_firebase">Server</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="start_btn_login">Login</string>
+    <string name="toast_wrong_enter">Enter password and email</string>
+    <string name="hint_your_info">Your info</string>
+    <string name="hint_title">Title</string>
+</resources>
